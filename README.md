@@ -1,4 +1,6 @@
 # create-matrix
+[![Travis CI](https://img.shields.io/travis/petrgrishin/create-matrix/master.svg?style=flat-square)](https://travis-ci.org/petrgrishin/create-matrix)
+
 Helper for create matrix
 
 ## Installation
