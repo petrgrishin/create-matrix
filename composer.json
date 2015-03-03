@@ -1,0 +1,26 @@
+{
+  "name": "petrgrishin/create-matrix",
+  "description": "Helper for create matrix",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0",
+    "matrix-object": "~1.0"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/petrgrishin/create-matrix.git"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Petr Grishin",
+      "email": "petr.grishin@grishini.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "PetrGrishin\\CreateMatrix\\": "src/"
+    }
+  }
+}
