@@ -12,6 +12,7 @@ Add a dependency to your project's composer.json file if you use [Composer](http
 ```
 
 ## Usage examples
+#### Create matrix by the variants
 ```php
 $variants = [
     'a' => [1, 2],
@@ -49,7 +50,7 @@ $matrix = Array
 )
 ```
 
-### Use empty variant
+#### Create matrix with variant an empty value
 
 ```php
 $variants = [
